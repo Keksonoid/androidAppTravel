@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012976382847",
+    "project_id": "keksonoid-travel",
+    "storage_bucket": "keksonoid-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012976382847:android:ce0394d69071dcecc0e04a",
+        "android_client_info": {
+          "package_name": "com.example.travelagency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012976382847-p6v6ek8p2pf61uful1c3dqeathldh3kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelagency",
+            "certificate_hash": "1fd5eb3bfa252a881b7740957c2fb95df17edf1e"
+          }
+        },
+        {
+          "client_id": "1012976382847-fpbqj31cvguhp0vfh4ulo9rfq5h62815.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-zy1ZHnkrR3xQChGwn-cgf1JE2QysMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012976382847-fpbqj31cvguhp0vfh4ulo9rfq5h62815.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
